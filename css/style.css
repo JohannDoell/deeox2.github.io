@@ -1,7 +1,15 @@
 p {
-    color: red;
+    color: black;
 }
 
 a {
     color: blue;
+}
+
+h1 {
+	color: black;
+}
+
+h2 {
+	color: black;
 }
