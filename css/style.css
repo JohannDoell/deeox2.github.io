@@ -5,6 +5,11 @@ body {
 
 p {
     color: black;
+	border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
 }
 
 a {
