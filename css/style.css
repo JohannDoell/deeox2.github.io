@@ -18,3 +18,8 @@ h1 {
 h2 {
 	color: black;
 }
+
+body {
+	margin-left: 5%;
+	margin-right: 5%;
+}
