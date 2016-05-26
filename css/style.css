@@ -22,7 +22,7 @@ h2 {
 body {
 	margin-left: 5%;
 	margin-right: 5%;
-    background-image: url("img_tree.png");
+    background-image: url("/images/background.jpg");
     background-repeat: repeat;
     background-position: right top;
     background-attachment: fixed;
