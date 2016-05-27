@@ -31,6 +31,22 @@ ol {
 	color: white;
 }
 
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #dddddd;
+}
+
+nav li {
+	float: left;
+}
+
+nav li a {
+	display: block;
+	padding: 8px;
+}
+
 body {
 	margin-left: 5%;
 	margin-right: 5%;
