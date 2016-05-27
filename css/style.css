@@ -34,6 +34,9 @@ ol {
 }
 
 nav ul {
+	position: fixed;
+	top: 0;
+	widtj: 100%;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
