@@ -12,8 +12,6 @@ a {
 }
 
 h1 {
-	display: block;
-	margin: 50px;
 	color: white;
 }
 
@@ -36,7 +34,7 @@ ol {
 nav ul {
 	position: fixed;
 	top: 0;
-	widtj: 100%;
+	width: 100%;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
