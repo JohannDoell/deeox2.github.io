@@ -44,12 +44,12 @@ nav li {
 nav li a {
 	display: block;
 	padding: 8px;
-	background-color: #dddddd;
+	background-color: #1e2f2f;
 	text-decoration: none;
 }
 
 nav li a:hover {
-	background-color: grey;
+	background-color:  #grey;
 }
 
 body {
