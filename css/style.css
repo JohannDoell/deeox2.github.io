@@ -46,12 +46,12 @@ nav li {
 nav li a {
 	display: block;
 	padding: 8px;
-	background-color: #2eab4f;
+	background-color: #248a3f;
 	text-decoration: none;
 }
 
 nav li a:hover {
-	background-color: #21803a;
+	background-color: #1c6b31;
 }
 
 body {
@@ -60,7 +60,7 @@ body {
 	margin-right: 5%;
     background-image: url("/images/background2.jpg");
     background-repeat: no-repeat;
-	background-size: auto;
-    background-position: right top;
+	background-size: cover;
+    background-position: center center;
     background-attachment: fixed;
 }
