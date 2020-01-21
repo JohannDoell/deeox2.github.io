@@ -35,7 +35,7 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	padding-left: 50px;
-	background-color: #1e2f2f;
+	background-color: #2eab4f;
 }
 
 nav li {
@@ -45,12 +45,12 @@ nav li {
 nav li a {
 	display: block;
 	padding: 8px;
-	background-color: #1e2f2f;
+	background-color: #2eab4f;
 	text-decoration: none;
 }
 
 nav li a:hover {
-	background-color: black;
+	background-color: #21803a;
 }
 
 body {
