@@ -66,9 +66,9 @@ body {
 }
 
 .block {
-	float: left;
-	margin: 5px;
-	display: flex;
+	background-color: white;
+	margin-left: 5%;
+	margin-right: 5%;
 	justify-content: center;
 }
 
