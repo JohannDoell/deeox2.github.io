@@ -36,6 +36,7 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	padding-left: 50px;
+	padding-right: 50px;
 	background-color: #2eab4f;
 }
 
@@ -58,6 +59,7 @@ body {
 	background-color: white;
 	margin-left: 5%;
 	margin-right: 5%;
+	margin-top: 5%;
     background-image: url("/images/background2.jpg");
     background-repeat: no-repeat;
 	background-size: cover;
