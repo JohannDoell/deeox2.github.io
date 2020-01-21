@@ -64,3 +64,14 @@ body {
     background-position: center center;
     background-attachment: fixed;
 }
+
+.block {
+	float: left;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+}
+
+.block_1 {
+	
+}
