@@ -23,17 +23,19 @@
 	
 	<table id="table" border="1">
             <tr>
-                <th>Assessment</th>
-                <th>Percentage</th>
+                <th>Course Subcategory</th>
+                <th>Time</th>
+				<th>Date</th>
             </tr>
         </table>
 	
 	 <script>
             
-            var array = [["Assignments (4 assignments)","25%"],
-                         ["Class Project","30%"],
-                         ["Final Exam (3 hours)","45%"],
-                         ["Total","100%"]],
+            var array = [["Lecture","25%","MWF"],
+                         ["T2","30%","M"],
+                         ["T4","45%","W"],
+                         ["T6","100%","W"],
+						 ["T8","","R"]],
                 table = document.getElementById("table");
            
            for(var i = 0; i < array.length; i++)
