@@ -1,5 +1,3 @@
-<script>
- 
 function myFunction() {
 var array = [["Assignments (4 assignments)","25%"],
              ["Class Project","30%"],
@@ -18,4 +16,3 @@ for(var i = 0; i < array.length; i++){
 		}
 }
 }
-</script>
