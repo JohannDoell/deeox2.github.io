@@ -33,7 +33,7 @@
 			
             <tr>
                 <td>
-				<button onclick="displayAlert("Test1")">Lecture</button>
+				<button onclick="displayLectureAlert()">Lecture</button>
 				</td>
                 <td>12:30pm - 1:20pm</td>
                 <td>MWF</td>
@@ -41,7 +41,7 @@
             
             <tr>
                 <td>
-				T2
+				<button onclick="displayTutorialAlert()">T2</button>
 				</td>
                 <td>3:30pm - 4:20pm</td>
                 <td>M</td>
@@ -49,7 +49,7 @@
             
             <tr>
                 <td>
-				T4
+				<button onclick="displayTutorialAlert()">T4</button>
 				</td>
                 <td>10:30am - 11:20am</td>
                 <td>W</td>
@@ -57,7 +57,7 @@
             
             <tr>
                 <td>
-				T6
+				<button onclick="displayTutorialAlert()">T6</button>
 				</td>
                 <td>4:30pm - 5:20pm</td>
                 <td>W</td>
@@ -65,7 +65,7 @@
             
             <tr>
                 <td>
-				T8
+				<button onclick="displayTutorialAlert()">T8</button>
 				</td>
                 <td>9:00am - 9:50am</td>
                 <td>R</td>
@@ -73,9 +73,13 @@
         </table>
 	
 		<script>
-		    function displayAlert(text) {
-				alert(text);
+		    function displayLectureAlert() {
+				alert("Arts 134");
 		    }
+			
+			function displayTutorialAlert() {
+				alert("Thorv S320");
+			}
         </script>
 	
 	
