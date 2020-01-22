@@ -36,7 +36,7 @@ dl {
 
 ul {
 	color: black;
-	padding-left: 10px;
+	padding-left: 20px;
 	padding-right: 10px;
 }
 
@@ -47,8 +47,7 @@ ol {
 }
 
 li span {
-	position: relative;
-	left: -5px;
+	background-position: 10px;
 }
 
 nav ul {
