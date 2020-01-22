@@ -1,4 +1,3 @@
-function myFunction() {
 var array = [["Assignments (4 assignments)","25%"],
              ["Class Project","30%"],
              ["Final Exam (3 hours)","45%"],
@@ -15,4 +14,4 @@ for(var i = 0; i < array.length; i++){
 		cell.innerHTML = array[i][j];
 		}
 }
-}
+
